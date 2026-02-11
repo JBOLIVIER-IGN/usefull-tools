@@ -1,4 +1,4 @@
-# Awesome-JBO
+# TOOLS AND RESSOURCES
 ______
 list of usefull developping ressources
 ______
